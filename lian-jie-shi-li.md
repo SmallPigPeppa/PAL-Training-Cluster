@@ -10,20 +10,24 @@
 
 以[Termius](https://termius.com/) 为例（兼容Windows和macOS），新建连接时输入相应的IP和端口。若使用PAL镜像，用户名和密码分别为root和123456。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤3:文件传输
 
 在Termius连接后，点击左侧的SFTP选项来支持文件的拖拽上传和下载。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 对于较大文件，请使用SSH命令传输，例如：
 
 * 从本地复制到服务器
 
-`scp -r -P port_number /path/to/local/file username@remote_host:/path/to/remote/directory`
+```
+scp -r -P port_number /path/to/local/file username@remote_host:/path/to/remote/directory
+```
 
 * 从服务器复制到本地
 
-`scp -r -P port_number username@remote_host:/path/to/remote/directory /path/to/local/file`
+```
+scp -r -P port_number username@remote_host:/path/to/remote/directory /path/to/local/file
+```

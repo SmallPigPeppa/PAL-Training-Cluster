@@ -20,6 +20,6 @@ PAL镜像已安装tmux等常用工具，创建root密码为123456。
 
 选择GPU使用时间（训练开始后可手动延长），挂载PAL组共享存储（pal\_share）及个人存储。
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 以上步骤完成后，点击**提交申请**

@@ -13,8 +13,12 @@ description: TODO
 
 ### &#x20;开启加速 <a href="#undefined" id="undefined"></a>
 
-`source /etc/proxy/net_prox (TODO)`
+```
+source /etc/proxy/net_prox (TODO)
+```
 
 ### 关闭加速 <a href="#undefined" id="undefined"></a>
 
-`unset https_proxy && unset http_proxy`
+```
+unset https_proxy && unset http_proxy
+```
