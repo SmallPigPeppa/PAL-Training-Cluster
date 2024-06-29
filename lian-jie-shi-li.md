@@ -14,7 +14,7 @@
 
 ### 步骤3:文件传输
 
-Termius连接后，点击左侧SFTP支持拖拽上传和下载文件。
+在Termius连接后，点击左侧的SFTP选项来支持文件的拖拽上传和下载。
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
