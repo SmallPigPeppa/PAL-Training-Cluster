@@ -10,4 +10,4 @@ description: 快速开始
 
 ## 访问方式
 
-通过[http://hpc.ia.ac.cn](http://hpc.ia.ac.cn)，可以轻松地创建、管理和使用 GPU 容器云。
+通过[http://hpc.ia.ac.cn](http://hpc.ia.ac.cn)，可以轻松地创建、管理和使用 GPU算力。
