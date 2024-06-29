@@ -12,6 +12,8 @@
 
 PAL镜像已安装tmux等常用工具，创建root密码为123456。
 
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 
 
 ### 步骤3：选择任务释放时间及挂载存储
