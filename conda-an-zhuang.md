@@ -16,7 +16,7 @@ https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 
 ### 步骤2: 在个人存储下安装conda
 
-使用以下命令，通过提供的下载链接将Conda安装到个人存储。**注意修改 `/mnt/wenzhuoliu`为创建实例时个人磁盘的挂载路径**
+使用以下命令，通过提供的下载链接将Conda安装到个人存储。**注意修改 `/mnt/wenzhuoliu`为创建实例时个人存储的挂载路径**
 
 <pre><code><strong>cd /mnt/wenzhuoliu # 这里修改为你的个人路径
 </strong><strong>mkdir -p ./miniconda3
