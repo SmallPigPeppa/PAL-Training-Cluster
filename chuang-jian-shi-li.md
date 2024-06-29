@@ -18,4 +18,4 @@
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-**w一键部署**
+以上步骤完成后，点击**提交申请**
