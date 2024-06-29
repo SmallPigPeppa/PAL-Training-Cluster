@@ -8,7 +8,7 @@
 
 ### 步骤2:通过SSH软件连接
 
-以Termius [https://termius.com/](https://termius.com/) 为例（兼容Windows和macOS），新建连接时输入相应的IP和端口。若使用PAL镜像，用户名和密码分别为root和123456。
+以[Termius](https://termius.com/) 为例（兼容Windows和macOS），新建连接时输入相应的IP和端口。若使用PAL镜像，用户名和密码分别为root和123456。
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
