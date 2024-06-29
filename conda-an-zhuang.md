@@ -24,3 +24,13 @@ https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 </strong><strong>bash ./miniconda3/miniconda.sh -b -u -p ./miniconda3
 </strong><strong>rm -rf ./miniconda3/miniconda.sh
 </strong></code></pre>
+
+### 步骤3:保存个人初始化镜像
+
+因为Conda安装会修改Linux系统中的bash文件，所以完成安装后需要将更改保存为镜像。**在个人存储中安装Conda之后，新建的Conda环境无需再次保存新的镜像。**
+
+在任务详情中点击“创建快照”，即可保存个人镜像。在后续创建实例时，选择此镜像继续使用。请注意为镜像规范命名，命名格式应以“\_用户名”结尾，例如：“ubuntu20.04\_cuda11.2\_torch1.11\_python3.7\_wenzhuoliu”。这样做有助于管理和识别不同用户的镜像。
+
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
