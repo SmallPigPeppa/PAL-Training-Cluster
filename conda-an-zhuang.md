@@ -4,7 +4,7 @@ description: Conda
 
 # Conda安装
 
-**确保将Conda安装在个人磁盘路径中，例如：`/mnt/wenzhuoliu`，该路径是创建实例时个人磁盘的挂载路径。**
+**确保将Conda安装在个人存储路径中，例如：`/mnt/wenzhuoliu`，该路径是创建实例时个人存储的挂载路径。**
 
 ### 步骤1: 获取miniconda安装包路径
 
