@@ -2,6 +2,7 @@
 
 * [Quick Start](README.md)
 * [准备工作](zhun-bei-gong-zuo.md)
+* [TODO: 管理存储](todo-guan-li-cun-chu.md)
 * [创建实例](chuang-jian-shi-li.md)
 * [远程连接](lian-jie-shi-li.md)
 * [Conda安装](conda-an-zhuang.md)
