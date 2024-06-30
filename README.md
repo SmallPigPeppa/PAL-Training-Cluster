@@ -14,7 +14,9 @@ description: 快速开始
 
 ### 演示实例
 
-初次使用，可查看[PAL组平台演示视频](https://pan.baidu.com/s/1p5xa-41hy1FCNCUeXc0YJA?pwd=24b7)。
+初次使用，可查看PAL组算力平台演示。
+
+{% file src=".gitbook/assets/PAL组算力平台演示.mp4" %}
 
 
 
