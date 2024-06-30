@@ -1,5 +1,9 @@
 # Table of contents
 
-* [管理员需求](README.md)
-* [用户需求](yong-hu-xu-qiu.md)
-* [平台BUG](ping-tai-bug.md)
+* [Quick Start](README.md)
+* [准备工作](zhun-bei-gong-zuo.md)
+* [管理存储](guan-li-cun-chu.md)
+* [创建实例](chuang-jian-shi-li.md)
+* [远程连接](lian-jie-shi-li.md)
+* [Conda安装](conda-an-zhuang.md)
+* [TODO: 加速服务](jia-su-fu-wu.md)
