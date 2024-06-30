@@ -1,9 +1,7 @@
 # Table of contents
 
-* [Quick Start](README.md)
-* [准备工作](zhun-bei-gong-zuo.md)
-* [管理存储](guan-li-cun-chu.md)
-* [创建实例](chuang-jian-shi-li.md)
-* [远程连接](lian-jie-shi-li.md)
-* [Conda安装](conda-an-zhuang.md)
-* [TODO: 加速服务](jia-su-fu-wu.md)
+* [引言](README.md)
+* [访问权限和用户注册](fang-wen-quan-xian-he-yong-hu-zhu-ce.md)
+* [资源使用规定](zi-yuan-shi-yong-gui-ding.md)
+* [维护和支持](wei-hu-he-zhi-chi.md)
+* [违规处理](wei-gui-chu-li.md)
