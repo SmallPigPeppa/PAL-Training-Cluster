@@ -23,6 +23,8 @@ https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 </strong><strong>wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ./miniconda3/miniconda.sh
 </strong><strong>bash ./miniconda3/miniconda.sh -b -u -p ./miniconda3
 </strong><strong>rm -rf ./miniconda3/miniconda.sh
+</strong><strong>./miniconda3/bin/conda init bash
+</strong><strong>./miniconda3/bin/conda init zsh
 </strong></code></pre>
 
 ### 步骤3:保存个人初始化镜像
