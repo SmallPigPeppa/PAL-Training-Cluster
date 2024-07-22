@@ -8,7 +8,7 @@
 
 ### 步骤2：任务配置
 
-选择所需的GPU数量（建议1到2张卡），并选择镜像，初次使用平台选择`ubuntu20.04_cuda11.2_torch1.11_python3.7_PAL`。该PAL镜像已预装了tmux等常用工具，并设置了root密码为123456，可作为基础镜像使用。
+选择所需的GPU数量（建议1到2张卡），并选择镜像，初次使用平台选择`ubuntu20.04_cuda11.2_PAL`。该PAL镜像已预装了tmux等常用工具，并设置了root密码为123456，可作为基础镜像使用。
 
 <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
